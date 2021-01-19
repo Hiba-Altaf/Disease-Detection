@@ -1,1 +1,1 @@
-# Disease-Detection
+# Heart Disease Detector 
