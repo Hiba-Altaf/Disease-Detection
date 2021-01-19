@@ -1,1 +1,1 @@
-# Heart Disease Detector 
+# Disease Detection with Python ML models 
